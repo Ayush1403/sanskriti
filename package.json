@@ -2,12 +2,12 @@
   "name": "sanskriti",
   "private": true,
   "version": "0.0.0",
-  "type": "module",
+  "type": "commonjs",
   "scripts": {
     "dev": "vite",
     "lint": "eslint .",
     "preview": "vite preview",
-    "start": "node server.mjs",
+    "start": "node server.js",
     "build": "vite build",
     "postinstall": "npm run build"
   },
