@@ -1,0 +1,623 @@
+[
+  {
+    "stateId": "andhra-pradesh",
+    "cards": [
+      {
+        "title": "Cultural Heritage Sites",
+        "description": "Explore the rich cultural heritage of Andhra Pradesh.",
+        "imageSrc": "/images/andhra-pradesh/culture.jpg",
+        "link": "#"
+      },
+      {
+        "title": "Famous Temples",
+        "description": "Visit the renowned Tirupati Temple and other historic temples.",
+        "imageSrc": "/images/andhra-pradesh/temples.jpg",
+        "link": "#"
+      },
+      {
+        "title": "Picturesque Beaches",
+        "description": "Relax on the stunning beaches of Andhra Pradesh.",
+        "imageSrc": "/images/andhra-pradesh/beaches.jpg",
+        "link": "#"
+      }
+    ]
+  },
+  {
+    "stateId": "arunachal-pradesh",
+    "cards": [
+      {
+        "title": "Stunning Landscapes",
+        "description": "Discover the breathtaking landscapes of Arunachal Pradesh.",
+        "imageSrc": "/images/arunachal/nature.jpg",
+        "link": "#"
+      },
+      {
+        "title": "Vibrant Culture",
+        "description": "Experience the rich culture and traditions of Arunachal Pradesh.",
+        "imageSrc": "/images/arunachal/culture.jpg",
+        "link": "#"
+      },
+      {
+        "title": "Adventure Activities",
+        "description": "Embark on thrilling adventure experiences.",
+        "imageSrc": "/images/arunachal/adventure.jpg",
+        "link": "#"
+      }
+    ]
+  },
+  {
+    "stateId": "assam",
+    "cards": [
+      {
+        "title": "Lush Tea Plantations",
+        "description": "Visit the lush tea gardens of Assam.",
+        "imageSrc": "/images/assam/tea.jpg",
+        "link": "#"
+      },
+      {
+        "title": "Kaziranga National Park",
+        "description": "Explore the rich wildlife of Kaziranga National Park.",
+        "imageSrc": "/images/assam/kaziranga.jpg",
+        "link": "#"
+      },
+      {
+        "title": "Vibrant Cultural Festivals",
+        "description": "Experience the lively festivals of Assam.",
+        "imageSrc": "/images/assam/festivals.jpg",
+        "link": "#"
+      }
+    ]
+  },
+  {
+    "stateId": "bihar",
+    "cards": [
+      {
+        "title": "Bodh Gaya",
+        "description": "Visit the sacred site where Buddha attained enlightenment.",
+        "imageSrc": "/images/bihar/bodh-gaya.jpg",
+        "link": "#"
+      },
+      {
+        "title": "Ancient Historical Sites",
+        "description": "Explore Bihar's ancient historical landmarks.",
+        "imageSrc": "/images/bihar/historical-sites.jpg",
+        "link": "#"
+      },
+      {
+        "title": "Cultural Traditions",
+        "description": "Immerse yourself in Bihar's vibrant cultural traditions.",
+        "imageSrc": "/images/bihar/cultural-traditions.jpg",
+        "link": "#"
+      }
+    ]
+  },
+  {
+    "stateId": "chhattisgarh",
+    "cards": [
+      {
+        "title": "Dense Forests",
+        "description": "Discover the rich biodiversity of Chhattisgarh's forests.",
+        "imageSrc": "/images/chhattisgarh/forests.jpg",
+        "link": "#"
+      },
+      {
+        "title": "Ancient Temples",
+        "description": "Visit historical temples and archaeological sites.",
+        "imageSrc": "/images/chhattisgarh/temples.jpg",
+        "link": "#"
+      },
+      {
+        "title": "Tribal Culture",
+        "description": "Experience the unique tribal culture and traditions.",
+        "imageSrc": "/images/chhattisgarh/tribal-culture.jpg",
+        "link": "#"
+      }
+    ]
+  },
+  {
+    "stateId": "goa",
+    "cards": [
+      {
+        "title": "Pristine Beaches",
+        "description": "Relax on Goa's beautiful and serene beaches.",
+        "imageSrc": "/images/goa/beaches.jpg",
+        "link": "#"
+      },
+      {
+        "title": "Vibrant Nightlife",
+        "description": "Enjoy the lively nightlife of Goa.",
+        "imageSrc": "/images/goa/nightlife.jpg",
+        "link": "#"
+      },
+      {
+        "title": "Portuguese Heritage",
+        "description": "Explore Goa's colonial architecture and heritage.",
+        "imageSrc": "/images/goa/heritage.jpg",
+        "link": "#"
+      }
+    ]
+  },
+  {
+    "stateId": "gujarat",
+    "cards": [
+      {
+        "title": "Rich Historical Legacy",
+        "description": "Uncover Gujarat's historical sites and monuments.",
+        "imageSrc": "/images/gujarat/history.jpg",
+        "link": "#"
+      },
+      {
+        "title": "Gir National Park",
+        "description": "Visit the famous Gir National Park for wildlife encounters.",
+        "imageSrc": "/images/gujarat/wildlife.jpg",
+        "link": "#"
+      },
+      {
+        "title": "Vibrant Festivals",
+        "description": "Experience the colorful festivals of Gujarat.",
+        "imageSrc": "/images/gujarat/festivals.jpg",
+        "link": "#"
+      }
+    ]
+  },
+  {
+    "stateId": "haryana",
+    "cards": [
+      {
+        "title": "Historical Monuments",
+        "description": "Explore Haryana's historic sites and monuments.",
+        "imageSrc": "/images/haryana/historical-sites.jpg",
+        "link": "#"
+      },
+      {
+        "title": "Agricultural Landscape",
+        "description": "Discover Haryana's thriving agricultural regions.",
+        "imageSrc": "/images/haryana/agriculture.jpg",
+        "link": "#"
+      },
+      {
+        "title": "Vibrant Cultural Festivals",
+        "description": "Experience the lively cultural festivals of Haryana.",
+        "imageSrc": "/images/haryana/festivals.jpg",
+        "link": "#"
+      }
+    ]
+  },
+  {
+    "stateId": "himachal-pradesh",
+    "cards": [
+      {
+        "title": "Charming Hill Stations",
+        "description": "Visit Himachal Pradesh's picturesque hill stations.",
+        "imageSrc": "/images/himachal/hill-stations.jpg",
+        "link": "#"
+      },
+      {
+        "title": "Scenic Trekking",
+        "description": "Enjoy trekking through Himachal Pradesh's scenic mountains.",
+        "imageSrc": "/images/himachal/trekking.jpg",
+        "link": "#"
+      },
+      {
+        "title": "Local Culture and Festivals",
+        "description": "Immerse yourself in the vibrant local culture and festivals.",
+        "imageSrc": "/images/himachal/culture.jpg",
+        "link": "#"
+      }
+    ]
+  },
+  {
+    "stateId": "jharkhand",
+    "cards": [
+      {
+        "title": "Beautiful Waterfalls",
+        "description": "Visit Jharkhand's stunning waterfalls.",
+        "imageSrc": "/images/jharkhand/waterfalls.jpg",
+        "link": "#"
+      },
+      {
+        "title": "Wildlife Sanctuaries",
+        "description": "Explore Jharkhand's wildlife sanctuaries and reserves.",
+        "imageSrc": "/images/jharkhand/wildlife.jpg",
+        "link": "#"
+      },
+      {
+        "title": "Tribal Culture",
+        "description": "Experience the rich tribal culture and traditions.",
+        "imageSrc": "/images/jharkhand/tribal-culture.jpg",
+        "link": "#"
+      }
+    ]
+  },
+  {
+    "stateId": "karnataka",
+    "cards": [
+      {
+        "title": "Historic Monuments",
+        "description": "Explore Karnataka's historic sites and monuments.",
+        "imageSrc": "/images/karnataka/historical-sites.jpg",
+        "link": "#"
+      },
+      {
+        "title": "Wildlife Parks",
+        "description": "Visit Karnataka's wildlife parks and sanctuaries.",
+        "imageSrc": "/images/karnataka/wildlife.jpg",
+        "link": "#"
+      },
+      {
+        "title": "Cultural Festivals",
+        "description": "Experience Karnataka's vibrant cultural festivals.",
+        "imageSrc": "/images/karnataka/festivals.jpg",
+        "link": "#"
+      }
+    ]
+  },
+  {
+    "stateId": "kerala",
+    "cards": [
+      {
+        "title": "Serene Backwaters",
+        "description": "Relax and enjoy Kerala's tranquil backwaters.",
+        "imageSrc": "/images/kerala/backwaters.jpg",
+        "link": "#"
+      },
+      {
+        "title": "Beautiful Beaches",
+        "description": "Soak up the sun on Kerala's stunning beaches.",
+        "imageSrc": "/images/kerala/beaches.jpg",
+        "link": "#"
+      },
+      {
+        "title": "Festivals and Culture",
+        "description": "Experience the lively festivals and cultural events.",
+        "imageSrc": "/images/kerala/festivals.jpg",
+        "link": "#"
+      }
+    ]
+  },
+  {
+    "stateId": "madhya-pradesh",
+    "cards": [
+      {
+        "title": "Ancient Temples",
+        "description": "Visit the historic temples and monuments.",
+        "imageSrc": "/images/madhya-pradesh/temples.jpg",
+        "link": "#"
+      },
+      {
+        "title": "National Parks",
+        "description": "Explore the diverse wildlife in Madhya Pradesh's national parks.",
+        "imageSrc": "/images/madhya-pradesh/national-parks.jpg",
+        "link": "#"
+      },
+      {
+        "title": "Cultural Heritage",
+        "description": "Discover the rich cultural heritage of the state.",
+        "imageSrc": "/images/madhya-pradesh/culture.jpg",
+        "link": "#"
+      }
+    ]
+  },
+  {
+    "stateId": "maharashtra",
+    "cards": [
+      {
+        "title": "Historic Forts",
+        "description": "Explore the majestic forts and historical sites.",
+        "imageSrc": "/images/maharashtra/forts.jpg",
+        "link": "#"
+      },
+      {
+        "title": "Vibrant Mumbai",
+        "description": "Experience the bustling city life in Mumbai.",
+        "imageSrc": "/images/maharashtra/mumbai.jpg",
+        "link": "#"
+      },
+      {
+        "title": "Scenic Hill Stations",
+        "description": "Relax in Maharashtra's picturesque hill stations.",
+        "imageSrc": "/images/maharashtra/hill-stations.jpg",
+        "link": "#"
+      }
+    ]
+  },
+  {
+    "stateId": "manipur",
+    "cards": [
+      {
+        "title": "Unique Culture",
+        "description": "Immerse yourself in Manipur's unique cultural heritage.",
+        "imageSrc": "/images/manipur/culture.jpg",
+        "link": "#"
+      },
+      {
+        "title": "Scenic Lakes",
+        "description": "Visit the beautiful lakes of Manipur.",
+        "imageSrc": "/images/manipur/lakes.jpg",
+        "link": "#"
+      },
+      {
+        "title": "Tribal Festivals",
+        "description": "Experience the vibrant tribal festivals of the state.",
+        "imageSrc": "/images/manipur/festivals.jpg",
+        "link": "#"
+      }
+    ]
+  },
+  {
+    "stateId": "meghalaya",
+    "cards": [
+      {
+        "title": "Charming Waterfalls",
+        "description": "Explore the scenic waterfalls of Meghalaya.",
+        "imageSrc": "/images/meghalaya/waterfalls.jpg",
+        "link": "#"
+      },
+      {
+        "title": "Living Root Bridges",
+        "description": "Discover the unique living root bridges.",
+        "imageSrc": "/images/meghalaya/root-bridges.jpg",
+        "link": "#"
+      },
+      {
+        "title": "Cultural Heritage",
+        "description": "Immerse yourself in Meghalaya's rich cultural heritage.",
+        "imageSrc": "/images/meghalaya/culture.jpg",
+        "link": "#"
+      }
+    ]
+  },
+  {
+    "stateId": "mizoram",
+    "cards": [
+      {
+        "title": "Stunning Landscapes",
+        "description": "Explore the beautiful landscapes of Mizoram.",
+        "imageSrc": "/images/mizoram/landscapes.jpg",
+        "link": "#"
+      },
+      {
+        "title": "Cultural Festivals",
+        "description": "Experience Mizoram's vibrant cultural festivals.",
+        "imageSrc": "/images/mizoram/festivals.jpg",
+        "link": "#"
+      },
+      {
+        "title": "Tribal Art and Crafts",
+        "description": "Discover the unique tribal art and crafts.",
+        "imageSrc": "/images/mizoram/tribal-art.jpg",
+        "link": "#"
+      }
+    ]
+  },
+  {
+    "stateId": "nagaland",
+    "cards": [
+      {
+        "title": "Rich Tribal Culture",
+        "description": "Immerse yourself in Nagaland's rich tribal culture.",
+        "imageSrc": "/images/nagaland/tribal-culture.jpg",
+        "link": "#"
+      },
+      {
+        "title": "Scenic Villages",
+        "description": "Visit the picturesque villages of Nagaland.",
+        "imageSrc": "/images/nagaland/villages.jpg",
+        "link": "#"
+      },
+      {
+        "title": "Festivals",
+        "description": "Experience the lively festivals and traditional events.",
+        "imageSrc": "/images/nagaland/festivals.jpg",
+        "link": "#"
+      }
+    ]
+  },
+  {
+    "stateId": "odisha",
+    "cards": [
+      {
+        "title": "Ancient Temples",
+        "description": "Visit Odisha's historic temples and monuments.",
+        "imageSrc": "/images/odisha/temples.jpg",
+        "link": "#"
+      },
+      {
+        "title": "Beautiful Beaches",
+        "description": "Relax on the pristine beaches of Odisha.",
+        "imageSrc": "/images/odisha/beaches.jpg",
+        "link": "#"
+      },
+      {
+        "title": "Tribal Culture",
+        "description": "Experience the diverse tribal culture of Odisha.",
+        "imageSrc": "/images/odisha/tribal-culture.jpg",
+        "link": "#"
+      }
+    ]
+  },
+  {
+    "stateId": "punjab",
+    "cards": [
+      {
+        "title": "Historic Gurudwaras",
+        "description": "Visit the sacred Gurudwaras of Punjab.",
+        "imageSrc": "/images/punjab/gurudwaras.jpg",
+        "link": "#"
+      },
+      {
+        "title": "Vibrant Festivals",
+        "description": "Experience the lively festivals and cultural events.",
+        "imageSrc": "/images/punjab/festivals.jpg",
+        "link": "#"
+      },
+      {
+        "title": "Traditional Bazaars",
+        "description": "Explore the bustling traditional markets.",
+        "imageSrc": "/images/punjab/bazaars.jpg",
+        "link": "#"
+      }
+    ]
+  },
+  {
+    "stateId": "rajasthan",
+    "cards": [
+      {
+        "title": "Majestic Forts",
+        "description": "Explore the grand forts and palaces of Rajasthan.",
+        "imageSrc": "/images/rajasthan/forts.jpg",
+        "link": "#"
+      },
+      {
+        "title": "Desert Landscapes",
+        "description": "Experience the unique desert landscapes and camel rides.",
+        "imageSrc": "/images/rajasthan/desert.jpg",
+        "link": "#"
+      },
+      {
+        "title": "Cultural Festivals",
+        "description": "Immerse yourself in Rajasthan's colorful cultural festivals.",
+        "imageSrc": "/images/rajasthan/festivals.jpg",
+        "link": "#"
+      }
+    ]
+  },
+  {
+    "stateId": "sikkim",
+    "cards": [
+      {
+        "title": "Scenic Mountain Views",
+        "description": "Enjoy the breathtaking views of the Himalayas.",
+        "imageSrc": "/images/sikkim/mountains.jpg",
+        "link": "#"
+      },
+      {
+        "title": "Buddhist Monasteries",
+        "description": "Visit the serene Buddhist monasteries.",
+        "imageSrc": "/images/sikkim/monasteries.jpg",
+        "link": "#"
+      },
+      {
+        "title": "Adventure Activities",
+        "description": "Engage in thrilling adventure activities.",
+        "imageSrc": "/images/sikkim/adventure.jpg",
+        "link": "#"
+      }
+    ]
+  },
+  {
+    "stateId": "tamil-nadu",
+    "cards": [
+      {
+        "title": "Historic Temples",
+        "description": "Explore Tamil Nadu's ancient temples and architecture.",
+        "imageSrc": "/images/tamil-nadu/temples.jpg",
+        "link": "#"
+      },
+      {
+        "title": "Beautiful Beaches",
+        "description": "Relax on the stunning beaches of Tamil Nadu.",
+        "imageSrc": "/images/tamil-nadu/beaches.jpg",
+        "link": "#"
+      },
+      {
+        "title": "Cultural Festivals",
+        "description": "Experience the vibrant cultural festivals and traditions.",
+        "imageSrc": "/images/tamil-nadu/festivals.jpg",
+        "link": "#"
+      }
+    ]
+  },
+  {
+    "stateId": "telangana",
+    "cards": [
+      {
+        "title": "Historic Sites",
+        "description": "Visit the historic sites and monuments in Telangana.",
+        "imageSrc": "/images/telangana/historic-sites.jpg",
+        "link": "#"
+      },
+      {
+        "title": "Vibrant City Life",
+        "description": "Experience the dynamic city life of Hyderabad.",
+        "imageSrc": "/images/telangana/city-life.jpg",
+        "link": "#"
+      },
+      {
+        "title": "Cultural Festivals",
+        "description": "Immerse yourself in Telangana's rich cultural festivals.",
+        "imageSrc": "/images/telangana/festivals.jpg",
+        "link": "#"
+      }
+    ]
+  },
+  {
+    "stateId": "tripura",
+    "cards": [
+      {
+        "title": "Natural Beauty",
+        "description": "Explore the scenic natural beauty of Tripura.",
+        "imageSrc": "/images/tripura/nature.jpg",
+        "link": "#"
+      },
+      {
+        "title": "Historical Monuments",
+        "description": "Visit the historical monuments and temples.",
+        "imageSrc": "/images/tripura/monuments.jpg",
+        "link": "#"
+      },
+      {
+        "title": "Tribal Culture",
+        "description": "Discover the rich tribal culture and traditions.",
+        "imageSrc": "/images/tripura/tribal-culture.jpg",
+        "link": "#"
+      }
+    ]
+  },
+  {
+    "stateId": "uttar-pradesh",
+    "cards": [
+      {
+        "title": "Historic Temples",
+        "description": "Visit the famous temples and monuments.",
+        "imageSrc": "/images/uttar-pradesh/temples.jpg",
+        "link": "#"
+      },
+      {
+        "title": "Cultural Heritage",
+        "description": "Explore the diverse cultural heritage of Uttar Pradesh.",
+        "imageSrc": "/images/uttar-pradesh/culture.jpg",
+        "link": "#"
+      },
+      {
+        "title": "Historic Cities",
+        "description": "Discover the historic cities and landmarks.",
+        "imageSrc": "/images/uttar-pradesh/cities.jpg",
+        "link": "#"
+      }
+    ]
+  },
+  {
+    "stateId": "west-bengal",
+    "cards": [
+      {
+        "title": "Cultural Heritage",
+        "description": "Experience the rich cultural heritage of West Bengal.",
+        "imageSrc": "/images/west-bengal/culture.jpg",
+        "link": "#"
+      },
+      {
+        "title": "Historic Sites",
+        "description": "Visit the historic sites and monuments.",
+        "imageSrc": "/images/west-bengal/sites.jpg",
+        "link": "#"
+      },
+      {
+        "title": "Natural Beauty",
+        "description": "Explore the scenic natural beauty of West Bengal.",
+        "imageSrc": "/images/west-bengal/nature.jpg",
+        "link": "#"
+      }
+    ]
+  }
+]

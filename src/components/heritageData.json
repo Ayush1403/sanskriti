@@ -1,0 +1,552 @@
+{
+    "Rajasthan": [
+        {
+            "name": "Jantar Mantar, Jaipur",
+            "location": "Jaipur",
+            "type": "Astronomical Observatory",
+            "detailed_description": "Jantar Mantar in Jaipur is a collection of 19 astronomical instruments built in the early 18th century. It features the world's largest stone sundial and is a UNESCO World Heritage site, demonstrating the technological advancements of its time in celestial observations.",
+            "image_url": "https://jaipurtourism.co.in/images/places-to-visit/header/jantar-mantar-jaipur-entry-fee-timings-holidays-reviews-header.jpg",
+            "coordinates": {
+                "latitude": 26.9246,
+                "longitude": 75.8245
+            }
+        },
+        {
+            "name": "Chittorgarh Fort",
+            "location": "Chittorgarh",
+            "type": "Fort",
+            "detailed_description": "Chittorgarh Fort is an iconic fort located in southern Rajasthan, known for its massive structure and history of Rajput valor. It has witnessed multiple sieges and is famous for the stories of courage and sacrifice. It was the capital of Mewar and hosts several palaces, towers, and temples.",
+            "image_url": "https://media1.thrillophilia.com/filestore/lfzzd0l9a8ugbkkkcnra44qaxpfz_1604757284_shutterstock_1227338428.jpg?w=400&dpr=2",
+            "coordinates": {
+                "latitude": 24.8887,
+                "longitude": 74.6516
+            }
+        },
+        {
+            "name": "Kumbhalgarh Fort",
+            "location": "Rajsamand",
+            "type": "Fort",
+            "detailed_description": "Kumbhalgarh Fort is located in the Rajsamand district of Rajasthan and is known for its massive 36-kilometer-long wall, second only to the Great Wall of China. The fort was built by Rana Kumbha in the 15th century and is nestled in the Aravalli Hills, offering stunning views.",
+            "image_url": "https://static.toiimg.com/photo/msid-100053003,width-96,height-65.cms",
+            "coordinates": {
+                "latitude": 25.1480,
+                "longitude": 73.5872
+            }
+        },
+        {
+            "name": "Ranthambore Fort",
+            "location": "Sawai Madhopur",
+            "type": "Fort",
+            "detailed_description": "Ranthambore Fort is situated inside the Ranthambore National Park in Sawai Madhopur, Rajasthan. The fort has historical significance and was a strategic location in battles. Today, it's known for being located within one of India’s most famous tiger reserves.",
+            "image_url": "https://www.trawell.in/admin/images/upload/176328524Ranthambore_Fort_Main.jpg",
+            "coordinates": {
+                "latitude": 26.0173,
+                "longitude": 76.4550
+            }
+        },
+        {
+            "name": "Gagron Fort",
+            "location": "Jhalawar",
+            "type": "Fort",
+            "detailed_description": "Gagron Fort is a unique fort located in the Jhalawar district of Rajasthan. It is a rare example of a hill and water fort, as it is surrounded by the Ahu and Kali Sindh rivers, providing natural defense. The fort has been a witness to numerous battles and historical events.",
+            "image_url": "https://drive.google.com/file/d/1nLkj57daxTevaKP9OCAf-FXeXHica-iP/view?usp=sharing",
+            "coordinates": {
+                "latitude": 24.5973,
+                "longitude": 76.1607
+            }
+        },
+        {
+            "name": "Amer Fort",
+            "location": "Jaipur",
+            "type": "Fort",
+            "detailed_description": "Amer Fort, located in Jaipur, is a majestic fort built with red sandstone and marble. It is known for its artistic elements, including the Sheesh Mahal (Mirror Palace) and intricate carvings. It was once the residence of the Rajput Maharajas and is a major tourist attraction.",
+            "image_url": "https://drive.google.com/file/d/1f1Rfsw6BoA09-NejSQy3CQ-lRQG4EBYU/view?usp=sharing",
+            "coordinates": {
+                "latitude": 26.9855,
+                "longitude": 75.8513
+            }
+        },
+        {
+            "name": "Jaisalmer Fort",
+            "location": "Jaisalmer",
+            "type": "Fort",
+            "detailed_description": "Jaisalmer Fort, also known as the Golden Fort, is one of the few living forts in the world, with thousands of people still residing within its walls. Built from yellow sandstone, it blends with the desert landscape and is a UNESCO World Heritage Site.",
+            "image_url": "https://drive.google.com/file/d/172YxHZ_ZSwhxp3Ll563Sm3T5lj3DIZfS/view?usp=sharing",
+            "coordinates": {
+                "latitude": 26.9124,
+                "longitude": 70.9120
+            }
+        },
+        {
+            "name": "Keoladeo National Park",
+            "location": "Bharatpur",
+            "type": "National Park / Bird Sanctuary",
+            "detailed_description": "Keoladeo National Park, formerly known as Bharatpur Bird Sanctuary, is a man-made wetland in Rajasthan. It is home to over 375 species of birds and is a major wintering ground for migratory birds, including endangered species like the Siberian Crane.",
+            "image_url": "https://drive.google.com/file/d/1-cYR4auAc2DbWmao3hBGxAycDoeKPEDd/view?usp=sharing",
+            "coordinates": {
+                "latitude": 27.1591,
+                "longitude": 77.5237
+            }
+        },
+        {
+            "name": "Jaipur City (The Pink City)",
+            "location": "Jaipur",
+            "type": "Planned City / Urban Settlement",
+            "detailed_description": "Jaipur, the capital of Rajasthan, is renowned for its urban planning and pink-colored buildings. Founded in 1727, the city is designed with broad streets and organized sectors, making it one of the earliest planned cities in India. It is famous for its palaces, forts, and rich cultural heritage.",
+            "image_url": "https://drive.google.com/file/d/1rGD9fX7RxWDeh3X-O2aSls80t0wr5Szd/view?usp=sharing",
+            "coordinates": {
+                "latitude": 26.9124,
+                "longitude": 75.7873
+            }
+        }
+    ],
+    "Maharashtra": [
+        {
+            "name": "Ajanta Caves",
+            "location": "Aurangabad",
+            "type": "Cave Complex",
+            "detailed_description": "The Ajanta Caves are 30 rock-cut Buddhist cave monuments dating from the 2nd century BCE. These caves are famous for their ancient Indian art, including paintings and sculptures that depict the Jataka tales.",
+            "image_url": "https://media.istockphoto.com/id/583958532/photo/kailas-temple-in-ellora-caves-complex-in-india.jpg?s=612x612&w=0&k=20&c=kmbUZpgjHlohgIuJNYRrjE0B5WFUFyseSJ3Ld4KyyJg=",
+            "coordinates": {
+                "latitude": 20.5522,
+                "longitude": 75.7033
+            }
+        },
+        {
+            "name": "Ellora Caves",
+            "location": "Aurangabad",
+            "type": "Cave Complex",
+            "detailed_description": "Ellora Caves are an impressive complex of rock-cut temples representing Hinduism, Buddhism, and Jainism. The site contains 34 caves, with the Kailasa temple being the most prominent and an outstanding example of Indian rock-cut architecture.",
+            "image_url": "https://media.istockphoto.com/id/470586352/photo/kailas-temple-ellora.jpg?s=612x612&w=0&k=20&c=ld95eeyLHKbjCpmD61L6x5TAyRrsdqiRc0i8Cig2aB0=",
+            "coordinates": {
+                "latitude": 20.0269,
+                "longitude": 75.1790
+            }
+        },
+        {
+            "name": "Chhatrapati Shivaji Terminus (Victoria Terminus)",
+            "location": "Mumbai",
+            "type": "Railway Station",
+            "detailed_description": "A historic railway station in Mumbai, the Chhatrapati Shivaji Terminus (formerly Victoria Terminus) is a UNESCO World Heritage site known for its Victorian Gothic Revival architecture, blending Indian and British influences.",
+            "image_url": "https://media.gettyimages.com/id/552552059/photo/mumbai-victoria-terminus-railways-station.jpg?s=612x612&w=0&k=20&c=jjPJLsraYXIg7hZZlxLdSvX7DfMfsXf3WIbR7dloBGA=",
+            "coordinates": {
+                "latitude": 18.9398,
+                "longitude": 72.8355
+            }
+        },
+        {
+            "name": "Elephanta Caves",
+            "location": "Mumbai Harbour",
+            "type": "Cave Complex",
+            "detailed_description": "Elephanta Caves are a network of sculpted caves located on Elephanta Island, near Mumbai. They primarily represent Shaivism, with intricate sculptures, including a massive 20-foot statue of Trimurti Sadashiva.",
+            "image_url": "https://media.gettyimages.com/id/945025984/photo/the-elephanta-caves-of-mumbai.jpg?s=612x612&w=0&k=20&c=-QzC9cVTvDhVu9vxKMEPo9OoLdI8695IC412Dzf0WOE=",
+            "coordinates": {
+                "latitude": 18.9633,
+                "longitude": 72.9314
+            }
+        },
+        {
+            "name": "Western Ghats",
+            "location": "Western Maharashtra",
+            "type": "Mountain Range",
+            "detailed_description": "The Western Ghats are one of the world's eight hotspots of biological diversity. Spanning across multiple states, including Maharashtra, the region is home to thousands of species of flora and fauna, many of which are endemic to the area.",
+            "image_url": "https://media.gettyimages.com/id/1324359088/photo/the-majestic-sahyadri-peaks-at-the-malshej-ghat.jpg?s=612x612&w=0&k=20&c=nhf0QVJk75euaPxMop_g8Uv41Yn8__I9UTwpmtEKKP0=",
+            "coordinates": {
+                "latitude": 16.8380,
+                "longitude": 74.4960
+            }
+        },
+        {
+            "name": "Kaas Plateau",
+            "location": "Satara",
+            "type": "Biodiversity Hotspot",
+            "detailed_description": "Kaas Plateau is a UNESCO World Heritage site located in the Western Ghats. It is renowned for its seasonal blooms of wildflowers and a wide variety of endemic plants and insects.",
+            "image_url": "https://media.gettyimages.com/id/150475289/photo/kaas-plateau.jpg?s=612x612&w=0&k=20&c=etKzwobBbkDJYvJr21wxsQDX_J_Jap-C2HEakHjDh6k=",
+            "coordinates": {
+                "latitude": 17.7008,
+                "longitude": 73.8007
+            }
+        }
+    ],
+    "Uttar Pradesh": [
+        {
+            "name": "Taj Mahal",
+            "location": "Agra",
+            "type": "Mausoleum",
+            "detailed_description": "The Taj Mahal is an iconic white marble mausoleum built by Mughal Emperor Shah Jahan in memory of his wife Mumtaz Mahal. It is renowned for its stunning architecture and is a UNESCO World Heritage site.",
+            "image_url": "https://plus.unsplash.com/premium_photo-1697729441569-f706fdd1f71c?q=80&w=1770&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "coordinates": {
+                "latitude": 27.1751,
+                "longitude": 78.0421
+            }
+        },
+        {
+            "name": "Agra Fort",
+            "location": "Agra",
+            "type": "Fort",
+            "detailed_description": "Agra Fort is a UNESCO World Heritage site located in Agra. It is a massive red sandstone fort built by Mughal Emperor Akbar and served as the main residence of the Mughal emperors until the capital was moved to Delhi.",
+            "image_url": "https://www.holidify.com/images/cmsuploads/compressed/799px-Agra_FortAgra_India_20200702133907.jpg",
+            "coordinates": {
+                "latitude": 27.1767,
+                "longitude": 78.0081
+            }
+        },
+        {
+            "name": "Fatehpur Sikri",
+            "location": "Fatehpur Sikri",
+            "type": "Historic City",
+            "detailed_description": "Fatehpur Sikri is a historic city founded by Mughal Emperor Akbar. It served as the Mughal capital for a brief period and is known for its well-preserved buildings and architectural significance. It is a UNESCO World Heritage site.",
+            "image_url": "https://vajiram-prod.s3.ap-south-1.amazonaws.com/Fatehpur_Sikri_c02f52298c.jpg",
+            "coordinates": {
+                "latitude": 27.0895,
+                "longitude": 77.6714
+            }
+        },
+        {
+            "name": "Varanasi Ghats",
+            "location": "Varanasi",
+            "type": "Religious Site",
+            "detailed_description": "The Ghats of Varanasi are a series of steps leading down to the river Ganges. They are significant in Hindu culture and are famous for their vibrant religious rituals and ceremonies.",
+            "image_url": "https://www.indiasinvitation.com/wp-content/uploads/2016/09/Varanasi-Ghats.jpg",
+            "coordinates": {
+                "latitude": 25.3176,
+                "longitude": 82.9739
+            }
+        },
+        {
+            "name": "Sarnath",
+            "location": "Sarnath",
+            "type": "Historic Site",
+            "detailed_description": "Sarnath is an important Buddhist site where Gautama Buddha gave his first sermon. It is home to several stupas and the famous Ashoka Pillar.",
+            "image_url": "https://shrikashidham.com/wp-content/uploads/2023/09/sarnath-varanasi-e1693918484606.jpg",
+            "coordinates": {
+                "latitude": 25.3740,
+                "longitude": 83.0078
+            }
+        }
+    ],
+    "Gujarat": [
+        {
+            "name": "Rani ki Vav",
+            "location": "Patan",
+            "type": "Stepwell",
+            "detailed_description": "Rani ki Vav is an intricately designed stepwell in Patan, Gujarat. It is renowned for its elaborate architecture and has been designated as a UNESCO World Heritage site.",
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Rani_ki_vav-Patan-Ahmedabad-Gujarat-O0A0110A.jpg",
+            "coordinates": {
+                "latitude": 23.8565,
+                "longitude": 72.1264
+            }
+        },
+        {
+            "name": "Gir National Park",
+            "location": "Gir",
+            "type": "National Park",
+            "detailed_description": "Gir National Park is the last refuge of the Asiatic Lion. It is a significant conservation area in Gujarat known for its diverse flora and fauna.",
+            "image_url": "https://res.cloudinary.com/jerrick/image/upload/v1718614850/666ffb42bf78e6001d220556.jpg",
+            "coordinates": {
+                "latitude": 21.1161,
+                "longitude": 70.3928
+            }
+        },
+        {
+            "name": "Sun Temple",
+            "location": "Modhera",
+            "type": "Temple",
+            "detailed_description": "The Sun Temple at Modhera is a 11th-century Hindu temple dedicated to the Sun God, Surya. The temple is renowned for its exquisite carvings and architectural brilliance.",
+            "image_url": "https://vajiram-prod.s3.ap-south-1.amazonaws.com/Konark_Sun_Temple_13e71cbb6e.jpg",
+            "coordinates": {
+                "latitude": 23.6434,
+                "longitude": 72.3932
+            }
+        },
+        {
+            "name": "Sabarmati Ashram",
+            "location": "Ahmedabad",
+            "type": "Historical Site",
+            "detailed_description": "Sabarmati Ashram was one of the residences of Mahatma Gandhi during the Indian freedom struggle. It is now a museum dedicated to his life and work.",
+            "image_url": "https://img.traveltriangle.com/blog/wp-content/uploads/2019/06/Sabarmati-Ashram-cover.jpg",
+            "coordinates": {
+                "latitude": 23.0265,
+                "longitude": 72.5697
+            }
+        },
+        {
+            "name": "Dwarka",
+            "location": "Dwarka",
+            "type": "Pilgrimage Site",
+            "detailed_description": "Dwarka is an ancient city and a major Hindu pilgrimage site, associated with Lord Krishna. It is known for the Dwarkadhish Temple and its historical significance.",
+            "image_url": "https://static.toiimg.com/photo/105070960.cms",
+            "coordinates": {
+                "latitude": 22.2401,
+                "longitude": 68.9872
+            }
+        }
+    ],
+    "Himachal Pradesh": [
+        {
+            "name": "Shimla",
+            "location": "Shimla",
+            "type": "Hill Station",
+            "detailed_description": "Shimla, the capital of Himachal Pradesh, is a popular hill station known for its colonial architecture, pleasant climate, and scenic beauty.",
+            "image_url": "https://deih43ym53wif.cloudfront.net/shimla-india-shutterstock_401682040_782e317f1f.jpeg",
+            "coordinates": {
+                "latitude": 31.1048,
+                "longitude": 77.1734
+            }
+        },
+        {
+            "name": "Manali",
+            "location": "Manali",
+            "type": "Hill Station",
+            "detailed_description": "Manali is a picturesque hill station in Himachal Pradesh, renowned for its adventure sports, scenic landscapes, and the nearby Solang Valley.",
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Manali_City.jpg",
+            "coordinates": {
+                "latitude": 32.2396,
+                "longitude": 77.1886
+            }
+        },
+        {
+            "name": "Dharamshala",
+            "location": "Dharamshala",
+            "type": "Hill Station",
+            "detailed_description": "Dharamshala is known for its Tibetan culture and monasteries. It is also the residence of the Dalai Lama and is a popular destination for spiritual seekers.",
+            "image_url": "https://media.radissonhotels.net/image/radisson-blu-resort-dharamshala/exterior-view/16256-124822-m26047059.jpg?impolicy=HomeHero",
+            "coordinates": {
+                "latitude": 32.2210,
+                "longitude": 76.3400
+            }
+        },
+        {
+            "name": "Kullu",
+            "location": "Kullu",
+            "type": "Valley",
+            "detailed_description": "Kullu is a scenic valley known for its beautiful landscapes, temples, and as a base for trekking and adventure activities.",
+            "image_url": "https://www.trawell.in/admin/images/upload/454282455Kullu_Main.jpg",
+            "coordinates": {
+                "latitude": 31.9670,
+                "longitude": 77.1025
+            }
+        }
+    ],
+    "Uttarakhand": [
+        {
+            "name": "Jim Corbett National Park",
+            "location": "Nainital",
+            "type": "National Park",
+            "detailed_description": "Jim Corbett National Park is the oldest national park in India and is famous for its population of Bengal tigers. It is located in the Nainital district of Uttarakhand.",
+            "image_url": "https://www.tarangiresort.com/assets/img/blog/TheCalloftheWild.jpg",
+            "coordinates": {
+                "latitude": 29.5330,
+                "longitude": 78.7805
+            }
+        },
+        {
+            "name": "Rishikesh",
+            "location": "Rishikesh",
+            "type": "Spiritual Town",
+            "detailed_description": "Rishikesh, known as the 'Yoga Capital of the World,' is famous for its spiritual and adventure tourism, including yoga retreats, river rafting, and the Ganga Aarti.",
+            "image_url": "https://himalayanoutback.com/wp-content/uploads/2022/04/Interesting-Facts-About-Rishikesh.jpg",
+            "coordinates": {
+                "latitude": 30.0869,
+                "longitude": 78.2676
+            }
+        },
+        {
+            "name": "Haridwar",
+            "location": "Haridwar",
+            "type": "Religious Town",
+            "detailed_description": "Haridwar is a sacred city in Uttarakhand where the River Ganges leaves the mountains and enters the plains. It is known for the Ganga Aarti performed at the ghats and its significance in Hinduism.",
+            "image_url": "https://www.chardham-pilgrimage-tour.com/assets/images/haridwar-banner3.webp",
+            "coordinates": {
+                "latitude": 29.9457,
+                "longitude": 78.1642
+            }
+        },
+        {
+            "name": "Dehradun",
+            "location": "Dehradun",
+            "type": "City",
+            "detailed_description": "Dehradun is the capital of Uttarakhand and is known for its pleasant climate, educational institutions, and proximity to the Himalayan foothills.",
+            "image_url": "https://s3.india.com/wp-content/uploads/2024/03/Feature-Image_-Dehradun-2.jpg",
+            "coordinates": {
+                "latitude": 30.3165,
+                "longitude": 78.0322
+            }
+        }
+    ],
+    "Assam": [
+        {
+            "name": "Kaziranga National Park",
+            "location": "Kaziranga",
+            "type": "National Park",
+            "detailed_description": "Kaziranga National Park is a UNESCO World Heritage site in Assam, known for its population of one-horned rhinoceroses and diverse wildlife.",
+            "image_url": "https://www.kaziranga-national-park.com/wp-content/uploads/2019/05/kaziranga-national-park2.jpg",
+            "coordinates": {
+                "latitude": 26.5884,
+                "longitude": 93.1514
+            }
+        },
+        {
+            "name": "Majuli",
+            "location": "Majuli",
+            "type": "Island",
+            "detailed_description": "Majuli is the largest river island in the world, located on the Brahmaputra River. It is known for its vibrant culture, monasteries, and festivals.",
+            "image_url": "https://www.indiantempletour.com/wp-content/uploads/2023/04/Majuli-Island.webp",
+            "coordinates": {
+                "latitude": 26.8960,
+                "longitude": 93.1824
+            }
+        },
+        {
+            "name": "Manas National Park",
+            "location": "Manas",
+            "type": "National Park",
+            "detailed_description": "Manas National Park is a UNESCO World Heritage site located in Assam, known for its rich biodiversity and its population of the endangered Assam Roofed Turtle.",
+            "image_url": "https://i0.wp.com/currylines.com/wp-content/uploads/2018/12/IMG_20181211_104401.jpg?resize=640%2C360&ssl=1",
+            "coordinates": {
+                "latitude": 26.7824,
+                "longitude": 90.4734
+            }
+        }
+    ],
+    "Bihar": [
+        {
+            "name": "Bodh Gaya",
+            "location": "Bodh Gaya",
+            "type": "Religious Site",
+            "detailed_description": "Bodh Gaya is a major Buddhist pilgrimage site where Gautama Buddha is said to have attained enlightenment. The Mahabodhi Temple, a UNESCO World Heritage site, is the focal point of the site.",
+            "image_url": "https://img.traveltriangle.com/blog/wp-content/uploads/2023/01/Places-To-Visit-In-Bodh-Gaya-Copy.jpg",
+            "coordinates": {
+                "latitude": 24.6928,
+                "longitude": 84.9934
+            }
+        },
+        {
+            "name": "Nalanda University",
+            "location": "Nalanda",
+            "type": "Ancient University",
+            "detailed_description": "Nalanda University was an ancient center of learning in Bihar, renowned for its vast library and scholars. It was one of the first residential universities in the world.",
+            "image_url": "https://miro.medium.com/v2/resize:fit:1400/1*-dlcVZBPPDPJvk71zJT09Q.jpeg",
+            "coordinates": {
+                "latitude": 25.1463,
+                "longitude": 85.4541
+            }
+        },
+        {
+            "name": "Patna",
+            "location": "Patna",
+            "type": "City",
+            "detailed_description": "Patna is the capital of Bihar and has historical significance as the ancient city of Pataliputra. It is known for its rich cultural heritage and historical monuments.",
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Golghar_patna.jpg",
+            "coordinates": {
+                "latitude": 25.5941,
+                "longitude": 85.1376
+            }
+        }
+    ],
+    "Jammu & Kashmir": [
+        {
+            "name": "Srinagar",
+            "location": "Srinagar",
+            "type": "City",
+            "detailed_description": "Srinagar is known for its beautiful gardens, houseboats, and the Dal Lake. It is a popular destination for tourists seeking natural beauty and tranquility.",
+            "image_url": "https://media.licdn.com/dms/image/D5612AQHHp_c5zsiS1g/article-cover_image-shrink_720_1280/0/1677755287768?e=2147483647&v=beta&t=qizLhSVLuNYhJDeqVpBVpmGQ94O2y0-_eyGwpKJJdWM",
+            "coordinates": {
+                "latitude": 34.0836,
+                "longitude": 74.7973
+            }
+        },
+        {
+            "name": "Leh-Ladakh",
+            "location": "Leh-Ladakh",
+            "type": "Region",
+            "detailed_description": "Leh-Ladakh is known for its stunning landscapes, high-altitude desert, and Buddhist monasteries. It is a popular destination for adventure enthusiasts and nature lovers.",
+            "image_url": "https://www.kashmirtourpackage.org/blog/wp-content/uploads/2024/02/Leh-Ladakh.jpg",
+            "coordinates": {
+                "latitude": 34.1526,
+                "longitude": 77.5789
+            }
+        },
+        {
+            "name": "Jammu",
+            "location": "Jammu",
+            "type": "City",
+            "detailed_description": "Jammu is the winter capital of Jammu & Kashmir and is known for its temples and as a gateway to the Himalayas. It serves as a significant cultural and administrative center.",
+            "image_url": "https://www.tourmyindia.com/socialimg/jammu-tourism.jpg",
+            "coordinates": {
+                "latitude": 32.7266,
+                "longitude": 74.8570
+            }
+        }
+    ],
+    "Haryana": [
+        {
+            "name": "Sultanpur National Park",
+            "location": "Gurgaon",
+            "type": "National Park",
+            "detailed_description": "Sultanpur National Park is a renowned bird sanctuary in Haryana, attracting bird watchers and nature enthusiasts. It is home to various species of migratory and resident birds.",
+            "image_url": "https://haryanatourism.gov.in/WriteReadData/mediafiles/image/bird_pic2.jpg",
+            "coordinates": {
+                "latitude": 28.4850,
+                "longitude": 76.9756
+            }
+        },
+        {
+            "name": "Kurukshetra",
+            "location": "Kurukshetra",
+            "type": "Historic City",
+            "detailed_description": "Kurukshetra is an ancient city famous for its significance in the Mahabharata. It is a major Hindu pilgrimage site with several temples and sacred water tanks.",
+            "image_url": "https://misfitwanderers.com/wp-content/uploads/2022/01/Kurukshetra-Tourist-Places-Cover.jpg",
+            "coordinates": {
+                "latitude": 29.9649,
+                "longitude": 76.8480
+            }
+        },
+        {
+            "name": "Pinjore Gardens",
+            "location": "Pinjore",
+            "type": "Historical Garden",
+            "detailed_description": "Pinjore Gardens is a historical garden complex in Haryana, known for its Mughal-style landscaping and architecture. It features terraced levels, water fountains, and lush greenery.",
+            "image_url": "https://cdn1.tripoto.com/media/filter/nl/img/2380291/Image/1697084366_untitled_design_32_jpg.jpg.webp",
+            "coordinates": {
+                "latitude": 30.7833,
+                "longitude": 76.9000
+            }
+        }
+    ],
+    "Madhya Pradesh": [
+        {
+            "name": "Khajuraho Temples",
+            "location": "Khajuraho",
+            "type": "Temple Complex",
+            "detailed_description": "The Khajuraho Temples are famous for their intricate erotic sculptures and are a UNESCO World Heritage site. They represent a blend of Hindu and Jain architecture and art.",
+            "image_url": "https://www.oyorooms.com/travel-guide/wp-content/uploads/2023/03/Exploring-the-Mystical-Beauty-of-the-Khajuraho-Temple-1280x720.jpg",
+            "coordinates": {
+                "latitude": 24.8324,
+                "longitude": 79.9199
+            }
+        },
+        {
+            "name": "Sanchi Stupa",
+            "location": "Sanchi",
+            "type": "Stupa",
+            "detailed_description": "Sanchi Stupa is a significant Buddhist site in Madhya Pradesh, known for its ancient stupas, temples, and monasteries. The Great Stupa is a major attraction and a UNESCO World Heritage site.",
+            "image_url": "https://www.pelago.co/img/products/IN-India/day-trip-to-sanchi-stupa-vidisha-from-bhopal/03b1ef5b-9c68-4f97-afe3-f51cf676198b_day-trip-to-sanchi-stupa-vidisha-from-bhopal-xlarge.webp",
+            "coordinates": {
+                "latitude": 23.4850,
+                "longitude": 77.7371
+            }
+        },
+        {
+            "name": "Bandhavgarh National Park",
+            "location": "Bandhavgarh",
+            "type": "National Park",
+            "detailed_description": "Bandhavgarh National Park is known for its high density of Bengal tigers and rich biodiversity. It is a popular destination for wildlife enthusiasts and photographers.",
+            "image_url": "https://www.pugdundeesafaris.com/assets/img/Bandhavgarh-National%20Park.jpg",
+            "coordinates": {
+                "latitude": 23.4912,
+                "longitude": 81.0594
+            }
+        }
+    ]
+}

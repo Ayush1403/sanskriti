@@ -1,0 +1,282 @@
+[
+  {
+    "id": "andhra-pradesh",
+    "name": "Andhra Pradesh",
+    "imageName": "assam",
+    "description": "Andhra Pradesh is a state in southeastern India known for its rich cultural heritage, vibrant festivals, and diverse cuisine. It is renowned for its historical temples, picturesque beaches, and lush green landscapes. The state boasts a thriving film industry and is home to the famous Tirupati Temple, one of the most visited pilgrimage sites in India.",
+    "capital": "Amaravati",
+    "language": "Telugu",
+    "area": "162,968 sq km",
+    "population": "49,386,799"
+  },
+  {
+    "id": "arunachal-pradesh",
+    "name": "Arunachal Pradesh",
+    "imageName": "arunachal",
+    "description": "Arunachal Pradesh is a northeastern state characterized by its stunning natural beauty and diverse ethnic groups. It features breathtaking landscapes, including the Eastern Himalayas and lush forests. The state is known for its unique tribal culture, vibrant festivals, and the Tawang Monastery, one of the largest monasteries in India.",
+    "capital": "Itanagar",
+    "language": "English",
+    "area": "83,743 sq km",
+    "population": "1,570,458"
+  },
+  {
+    "id": "assam",
+    "name": "Assam",
+    "imageName": "assam",
+    "description": "Assam is famous for its tea plantations, rich biodiversity, and scenic beauty. The state is home to the Kaziranga National Park, a UNESCO World Heritage site known for its one-horned rhinoceros. Assam's cultural heritage includes traditional dance forms, colorful festivals, and a vibrant culinary scene. The state's Brahmaputra River adds to its natural charm.",
+    "capital": "Dispur",
+    "language": "Assamese",
+    "area": "78,438 sq km",
+    "population": "31,205,576"
+  },
+  {
+    "id": "bihar",
+    "name": "Bihar",
+    "imageName": "bihar",
+    "description": "Bihar is a state with a deep historical and cultural heritage. It is the birthplace of Buddhism and is home to ancient sites such as Bodh Gaya, where Gautama Buddha attained enlightenment. The state also boasts rich archaeological sites and vibrant folk traditions. Bihar's cultural landscape is marked by diverse festivals and a strong sense of community.",
+    "capital": "Patna",
+    "language": "Hindi",
+    "area": "94,163 sq km",
+    "population": "104,099,452"
+  },
+  {
+    "id": "chhattisgarh",
+    "name": "Chhattisgarh",
+    "imageName": "chattisgarh",
+    "description": "Chhattisgarh is known for its dense forests, tribal culture, and natural resources. The state offers a variety of experiences, from exploring ancient temples and waterfalls to enjoying local festivals and traditional crafts. Chhattisgarh's unique cultural heritage includes vibrant dance forms and a rich tradition of folk art.",
+    "capital": "Raipur",
+    "language": "Hindi",
+    "area": "135,192 sq km",
+    "population": "29,436,231"
+  },
+  {
+    "id": "goa",
+    "name": "Goa",
+    "imageName": "goa",
+    "description": "Goa, a small coastal state, is renowned for its pristine beaches, vibrant nightlife, and Portuguese heritage. The state's scenic beauty, including palm-fringed beaches and serene backwaters, makes it a popular tourist destination. Goa's colonial architecture, lively festivals, and diverse cuisine contribute to its unique charm.",
+    "capital": "Panaji",
+    "language": "Konkani",
+    "area": "3,702 sq km",
+    "population": "1,458,545"
+  },
+  {
+    "id": "gujarat",
+    "name": "Gujarat",
+    "imageName": "gujarat",
+    "description": "Gujarat is known for its rich cultural diversity, historic sites, and economic growth. The state features a mix of ancient temples, majestic palaces, and vibrant festivals. Gujarat is famous for its traditional arts and crafts, diverse cuisine, and the Gir National Park, home to Asiatic lions. The state's economic progress is also marked by its thriving industries and infrastructure.",
+    "capital": "Gandhinagar",
+    "language": "Gujarati",
+    "area": "196,024 sq km",
+    "population": "60,439,692"
+  },
+  {
+    "id": "haryana",
+    "name": "Haryana",
+    "imageName": "haryana",
+    "description": "Haryana, located in northern India, is known for its historical significance, agricultural prosperity, and rapid urban development. The state features a blend of traditional rural life and modern cities. Haryana's cultural heritage includes historical sites, vibrant festivals, and a strong sense of community. The state is also an important center for industry and education.",
+    "capital": "Chandigarh",
+    "language": "Hindi",
+    "area": "44,212 sq km",
+    "population": "28,204,208"
+  },
+  {
+    "id": "himachal-pradesh",
+    "name": "Himachal Pradesh",
+    "imageName": "himachal",
+    "description": "Himachal Pradesh is renowned for its scenic mountain landscapes, charming hill stations, and outdoor activities. The state is a popular destination for trekking, skiing, and exploring picturesque towns. Himachal Pradesh's natural beauty, including lush valleys and snow-capped peaks, along with its vibrant local culture and festivals, make it a favorite among tourists.",
+    "capital": "Shimla",
+    "language": "Hindi",
+    "area": "55,538 sq km",
+    "population": "7,451,955"
+  },
+  {
+    "id": "jharkhand",
+    "name": "Jharkhand",
+    "imageName": "jharkhand",
+    "description": "Jharkhand is known for its mineral resources, dense forests, and tribal culture. The state offers a range of natural attractions, including waterfalls, national parks, and wildlife sanctuaries. Jharkhand's cultural landscape is marked by its diverse tribal communities, traditional festivals, and vibrant local crafts.",
+    "capital": "Ranchi",
+    "language": "Hindi",
+    "area": "79,714 sq km",
+    "population": "32,966,238"
+  },
+  {
+    "id": "karnataka",
+    "name": "Karnataka",
+    "imageName": "karnataka",
+    "description": "Karnataka is known for its rich cultural heritage, historic sites, and modern IT industry. The state offers a mix of ancient temples, vibrant festivals, and thriving cities. Karnataka's cultural richness is reflected in its diverse cuisine, classical music, and traditional dance forms. The state is also home to major cities like Bengaluru and Mysuru.",
+    "capital": "Bengaluru",
+    "language": "Kannada",
+    "area": "191,791 sq km",
+    "population": "61,095,297"
+  },
+  {
+    "id": "kerala",
+    "name": "Kerala",
+    "imageName": "kerala",
+    "description": "Kerala, often referred to as 'God's Own Country,' is famous for its backwaters, lush greenery, and serene landscapes. The state offers a unique blend of natural beauty, traditional culture, and modern amenities. Kerala's vibrant festivals, traditional art forms, and delicious cuisine make it a popular destination for travelers seeking relaxation and cultural experiences.",
+    "capital": "Thiruvananthapuram",
+    "language": "Malayalam",
+    "area": "38,863 sq km",
+    "population": "35,670,000"
+  },
+  {
+    "id": "madhya-pradesh",
+    "name": "Madhya Pradesh",
+    "imageName": "madhyapradesh",
+    "description": "Madhya Pradesh is known for its historical monuments, rich cultural heritage, and diverse wildlife. The state features ancient temples, forts, and palaces, as well as national parks and wildlife sanctuaries. Madhya Pradesh's cultural diversity is reflected in its festivals, traditional arts, and vibrant local crafts.",
+    "capital": "Bhopal",
+    "language": "Hindi",
+    "area": "308,350 sq km",
+    "population": "85,356,780"
+  },
+  {
+    "id": "maharashtra",
+    "name": "Maharashtra",
+    "imageName": "maharashta",
+    "description": "Maharashtra is a state with a diverse cultural landscape, bustling cities, and historical landmarks. The state is home to Mumbai, India's financial capital, as well as a rich array of cultural and historical sites. Maharashtra's attractions include ancient caves, beautiful beaches, and vibrant festivals, making it a prominent destination for both domestic and international travelers.",
+    "capital": "Mumbai",
+    "language": "Marathi",
+    "area": "307,713 sq km",
+    "population": "112,374,333"
+  },
+  {
+    "id": "manipur",
+    "name": "Manipur",
+    "imageName": "manipur",
+    "description": "Manipur is known for its unique cultural heritage, picturesque landscapes, and traditional festivals. The state offers a blend of lush hills, beautiful lakes, and vibrant local traditions. Manipur's rich cultural life includes classical dance forms, traditional music, and colorful festivals, making it an intriguing destination for travelers.",
+    "capital": "Imphal",
+    "language": "Manipuri",
+    "area": "22,327 sq km",
+    "population": "2,668,788"
+  },
+  {
+    "id": "meghalaya",
+    "name": "Meghalaya",
+    "imageName": "meghalaya",
+    "description": "Meghalaya, known as the 'Abode of Clouds,' is famous for its stunning natural beauty, including waterfalls, caves, and lush green landscapes. The state is characterized by its unique tribal culture, vibrant festivals, and scenic hill stations. Meghalaya's natural attractions and cultural richness make it a popular destination for nature enthusiasts and adventure seekers.",
+    "capital": "Shillong",
+    "language": "Khasi",
+    "area": "22,429 sq km",
+    "population": "3,321,757"
+  },
+  {
+    "id": "mizoram",
+    "name": "Mizoram",
+    "imageName": "mizoram",
+    "description": "Mizoram is known for its scenic landscapes, rich tribal culture, and traditional festivals. The state offers picturesque views of hills, valleys, and lush forests. Mizoram's cultural heritage is reflected in its traditional dance forms, music, and vibrant festivals. The state's natural beauty and cultural diversity make it an appealing destination for travelers.",
+    "capital": "Aizawl",
+    "language": "Mizo",
+    "area": "21,081 sq km",
+    "population": "1,336,779"
+  },
+  {
+    "id": "nagaland",
+    "name": "Nagaland",
+    "imageName": "nagaland",
+    "description": "Nagaland is known for its vibrant tribal culture, lush green landscapes, and unique festivals. The state features a mix of hills, forests, and traditional villages. Nagaland's rich cultural heritage is celebrated through colorful festivals, traditional dance forms, and local crafts. The state's natural beauty and cultural diversity make it a distinctive destination.",
+    "capital": "Kohima",
+    "language": "English",
+    "area": "16,579 sq km",
+    "population": "2,260,722"
+  },
+  {
+    "id": "odisha",
+    "name": "Odisha",
+    "imageName": "odisha",
+    "description": "Odisha is known for its rich cultural heritage, ancient temples, and scenic beaches. The state offers a blend of historical sites, vibrant festivals, and picturesque landscapes. Odisha's cultural richness includes traditional dance forms, classical music, and vibrant festivals. The state's natural beauty and cultural diversity make it a prominent destination for travelers.",
+    "capital": "Bhubaneswar",
+    "language": "Odia",
+    "area": "155,707 sq km",
+    "population": "46,090,752"
+  },
+  {
+    "id": "punjab",
+    "name": "Punjab",
+    "imageName": "punjab",
+    "description": "Punjab is known for its vibrant culture, agricultural prosperity, and historical significance. The state features a blend of historical sites, lively festivals, and traditional cuisine. Punjab's cultural richness includes its music, dance forms, and colorful festivals. The state's agricultural landscape and historical landmarks contribute to its unique character.",
+    "capital": "Chandigarh",
+    "language": "Punjabi",
+    "area": "50,362 sq km",
+    "population": "30,285,000"
+  },
+  {
+    "id": "rajasthan",
+    "name": "Rajasthan",
+    "imageName": "rajasthan",
+    "description": "Rajasthan is known for its royal heritage, historic forts, and vibrant culture. The state features majestic palaces, ancient temples, and colorful festivals. Rajasthan's rich cultural heritage is reflected in its traditional arts, crafts, and cuisine. The state's arid landscapes, historic landmarks, and vibrant festivals make it a popular destination for travelers.",
+    "capital": "Jaipur",
+    "language": "Hindi",
+    "area": "342,239 sq km",
+    "population": "80,803,000"
+  },
+  {
+    "id": "sikkim",
+    "name": "Sikkim",
+    "imageName": "sikkim",
+    "description": "Sikkim is known for its breathtaking landscapes, including snow-capped mountains, lush valleys, and scenic lakes. The state offers a unique blend of natural beauty and cultural richness. Sikkim's diverse culture is reflected in its traditional festivals, vibrant arts, and local cuisine. The state's natural attractions and cultural diversity make it an appealing destination for travelers.",
+    "capital": "Gangtok",
+    "language": "Nepali",
+    "area": "7,096 sq km",
+    "population": "690,000"
+  },
+  {
+    "id": "tamil-nadu",
+    "name": "Tamil Nadu",
+    "imageName": "tamilnadu",
+    "description": "Tamil Nadu is known for its rich cultural heritage, ancient temples, and vibrant arts. The state features historic sites, classical dance forms, and a diverse cuisine. Tamil Nadu's cultural richness is reflected in its traditional festivals, classical music, and vibrant arts. The state's historical landmarks and cultural diversity make it a prominent destination for travelers.",
+    "capital": "Chennai",
+    "language": "Tamil",
+    "area": "130,058 sq km",
+    "population": "72,138,000"
+  },
+  {
+    "id": "telangana",
+    "name": "Telangana",
+    "imageName": "telangana",
+    "description": "Telangana, a relatively new state, is known for its cultural heritage, historic sites, and modern development. The state features a mix of traditional and contemporary attractions, including historic monuments and vibrant festivals. Telangana's cultural richness is reflected in its traditional arts, cuisine, and festivals. The state's modern cities and historical landmarks make it a unique destination.",
+    "capital": "Hyderabad",
+    "language": "Telugu",
+    "area": "114,840 sq km",
+    "population": "35,193,000"
+  },
+  {
+    "id": "tripura",
+    "name": "Tripura",
+    "imageName": "tripura",
+    "description": "Tripura is known for its scenic beauty, rich cultural heritage, and vibrant festivals. The state features lush green landscapes, historic temples, and traditional crafts. Tripura's cultural richness is reflected in its traditional dance forms, music, and festivals. The state's natural attractions and cultural diversity make it a charming destination for travelers.",
+    "capital": "Agartala",
+    "language": "Bengali",
+    "area": "10,486 sq km",
+    "population": "4,240,000"
+  },
+  {
+    "id": "uttar-pradesh",
+    "name": "Uttar Pradesh",
+    "imageName": "uttarpradesh",
+    "description": "Uttar Pradesh, a state rich in historical and cultural significance, is known for its iconic landmarks, vibrant festivals, and diverse cultural heritage. The state features ancient temples, historical monuments, and a rich tradition of art and literature. Uttar Pradesh's cultural richness is celebrated through its festivals, traditional music, and historic sites.",
+    "capital": "Lucknow",
+    "language": "Hindi",
+    "area": "243,286 sq km",
+    "population": "224,975,000"
+  },
+  {
+    "id": "uttarakhand",
+    "name": "Uttarakhand",
+    "imageName": "uttarakhand",
+    "description": "Uttarakhand is known for its stunning natural beauty, including the Himalayan range, serene lakes, and lush forests. The state offers a blend of spiritual experiences and outdoor activities. Uttarakhand's cultural heritage includes ancient temples, vibrant festivals, and traditional crafts. The state's natural attractions and cultural richness make it a popular destination for travelers.",
+    "capital": "Dehradun",
+    "language": "Hindi",
+    "area": "53,483 sq km",
+    "population": "10,116,000"
+  },
+  {
+    "id": "west-bengal",
+    "name": "West Bengal",
+    "imageName": "westbengal",
+    "description": "West Bengal is known for its rich cultural heritage, historical landmarks, and vibrant arts. The state features a blend of historic sites, scenic landscapes, and diverse cuisine. West Bengal's cultural richness is reflected in its traditional festivals, classical music, and local crafts. The state's natural beauty and cultural diversity make it a prominent destination for travelers.",
+    "capital": "Kolkata",
+    "language": "Bengali",
+    "area": "88,752 sq km",
+    "population": "91,276,000"
+  }
+]
