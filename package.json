@@ -7,7 +7,7 @@
     "dev": "vite",
     "lint": "eslint .",
     "preview": "vite preview",
-    "start": "node server.js",
+    "start": "node server.mjs",
     "build": "vite build",
     "postinstall": "npm run build"
   },
