@@ -1,6 +1,6 @@
 // src/redux/store.js
 import { configureStore } from "@reduxjs/toolkit";
-import categoriesReducer from "./categoriesaslice";
+import categoriesReducer from "./categoriesslice";
 import cardsReducer from "./cardSlice";
 import stateCardsReducer from "./stateCardSlice"; // Import the new slice
 
