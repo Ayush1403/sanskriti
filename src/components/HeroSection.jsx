@@ -16,9 +16,9 @@ const HeroSection = () => {
         padding: "0 1rem", // Space on the left and right edges
         boxSizing: "border-box", // Include padding in the element's total width and height
         backgroundSize: "cover", // Ensure image covers the container
-        backgroundPosition: "center", // Center the image
-        overflow: "hidden", // Prevent scroll bars
-        zIndex: 1, // Ensure it’s behind other elements
+        backgroundPosition: "center", 
+        overflow: "hidden", 
+        zIndex: 1, 
       }}
     >
       <div className="absolute inset-0 bg-black opacity-30 rounded-lg"></div>{" "}
@@ -38,13 +38,13 @@ const HeroSection = () => {
             Start Exploring
           </button>
           <NavLink to={"/map"}>
-          <button className="px-6 py-3 bg-white text-black font-semibold rounded-full shadow-lg hover:bg-gray-200 transition">
-            <span className="flex items-center">
+          <button className=" p-4 bg-white text-black   font-semibold rounded-full shadow-lg hover:bg-gray-200 transition">
+            <span className="flex items-center ">
               <MdOutlineArrowOutward />
             </span>
           </button>
           </NavLink>
-        </div>
+        </div> 
       </div>
     </div>
   );

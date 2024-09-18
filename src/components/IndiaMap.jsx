@@ -15,7 +15,7 @@ const customIcon = new L.Icon({
 const IndiaMap = () => {
   const location = useLocation();
   const navigate = useNavigate();
-  const [selectedState, setSelectedState] = useState("Rajasthan"); // Default to Rajasthan or any other state
+  const [selectedState, setSelectedState] = useState([null]); // Default to Rajasthan or any other state
   const [map, setMap] = useState(null);
   const [selectedSites, setSelectedSites] = useState([]);
   const [showRouteSection, setShowRouteSection] = useState(false);
@@ -180,6 +180,7 @@ const IndiaMap = () => {
                   className="cursor-pointer"
                   onClick={() => handleSiteClick(site)} // Navigate on popup click
                 >
+                  <img src={site.image_url} alt="" />
                   <h3 className="text-lg font-semibold">{site.name}</h3>
                   <p className="text-sm text-gray-600">{site.detailed_description}</p>
                 </div>
